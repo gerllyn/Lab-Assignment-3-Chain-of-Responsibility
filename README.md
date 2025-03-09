@@ -1,4 +1,4 @@
-# lab-assignment-3
+# Lab-Assignment-3-Chain-of-Responsibility
 **Problem Statement**
 
 Municipalities and cities face significant challenges in waste management due to inefficiencies in traditional waste collection methods. These methods often result in delays, increased operational costs, and environmental hazards due to improper waste disposal. To address these issues, an **Automated Waste Management System** is proposed. 
