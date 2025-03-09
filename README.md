@@ -18,4 +18,6 @@ The system will implement the **Chain of Responsibility** design pattern to ensu
 4. **Validation**:
    - Ensures each waste type is handled by the correct collector.
    - Provides logs confirming successful waste disposal.
+     
+### **UML Diagram**
 ![image](https://github.com/user-attachments/assets/f7ce0e85-8e11-46f1-881a-ae82b70cd348)
